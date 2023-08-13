@@ -51,6 +51,10 @@ body {
 
 .header__menu-link {
   color: var(--text-light, #F5F5F5);
+  font-size: 16px;
+  font-style: normal;
+  line-height: 20px; 
+  text-decoration-line: underline;
 }
 
 .cover {
