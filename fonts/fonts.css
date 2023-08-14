@@ -8,7 +8,7 @@
 @font-face {
     src: url("/fonts/ebgaramondregular.woff2") format("woff2"),
          url("/fonts/ebgaramondregular.woff") format("woff"),
-         url("/fonts/ebgaramondregular.ttf") format("ttf");       
+         url("/fonts/ebgaramondregular.ttf") format("ttf");
     font-family: "EB Garamond";
     font-weight: 400;
 }
